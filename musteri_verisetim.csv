@@ -1,0 +1,301 @@
+müşteri_id;yaş;isim_soyisim;şehir;cinsiyet;üyelik_tarihi;sipariş_adeti;toplam_ödeme;ödeme_şekli;ödeme_yöntemi;ürün_kategori
+1000001;25;Ayşe Yılmaz;İstanbul;Kadın;10.01.2023;3;150.00;Peşin;Kredi Kartı;Giyim
+1000002;32;Mehmet Demir;Ankara;Erkek;20.11.2022;5;280.50;Taksitli;Havale-EFT;Elektronik
+1000003;45;Fatma Kaya;İzmir;Kadın;5.03.2023;1;85.20;Peşin;Kapıda Ödeme;Kozmetik
+1000004;28;Ali Şahin;Bursa;Erkek;15.02.2023;4;220.75;Taksitli;Kredi Kartı;Ev&Yaşam
+1000005;31;Selin Arslan;Antalya;Kadın;28.02.2023;2;110.00;Peşin;Havale-EFT;Anne&Çocuk
+1000006;40;Murat Güneş;Konya;Erkek;12.04.2023;6;350.90;Taksitli;Kapıda Ödeme;Market
+1000007;22;Zeynep Çelik;Adana;Kadın;20.03.2023;3;180.25;Peşin;Kredi Kartı;Giyim
+1000008;;Emre Öztürk;Gaziantep;Erkek;1.12.2022;7;420.50;Taksitli;Havale-EFT;Elektronik
+1000009;48;Hatice Yıldız;Mersin;Kadın;5.04.2023;1;95.80;Peşin;Kapıda Ödeme;Kozmetik
+1000010;29;Burak Kara;Eskişehir;Erkek;25.01.2023;5;260.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000011;38;Esra Aydın;Samsun;Kadın;15.03.2023;4;230.75;Peşin;Havale-EFT;Market
+1000012;42;Cemil Aksoy;Trabzon;Erkek;25.11.2022;2;130.40;Taksitli;Kapıda Ödeme;Anne&Çocuk
+1000013;27;Gülcan Koç;Kayseri;Kadın;20.02.2023;3;165.75;Peşin;Kredi Kartı;Giyim
+1000014;36;Okan Özdemir;Diyarbakır;Erkek;5.01.2023;6;380.20;Taksitli;Havale-EFT;Elektronik
+1000015;49;Derya Kılıç;Malatya;Kadın;15.04.2023;1;105.90;Peşin;Kapıda Ödeme;Kozmetik
+1000016;23;Hakan Arıkan;Erzurum;Erkek;25.03.2023;5;270.50;Taksitli;Kredi Kartı;Ev&Yaşam
+1000017;30;Sibel Kurt;Balıkesir;Kadın;10.12.2022;2;120.00;Peşin;Havale-EFT;Anne&Çocuk
+1000018;;Mustafa Çetin;Sakarya;Erkek;1.04.2023;7;400.80;Taksitli;Kapıda Ödeme;Market
+1000019;26;Tuğçe Özkan;Manisa;Kadın;15.01.2023;3;190.25;Peşin;Kredi Kartı;Giyim
+1000020;39;İbrahim Yücel;Denizli;Erkek;30.11.2022;4;210.60;Taksitli;Havale-EFT;Elektronik
+1000021;46;Filiz Aktaş;Aydın;Kadın;1.03.2023;1;90.50;Peşin;Kapıda Ödeme;Kozmetik
+1000022;24;Uğur Karaca;Tekirdağ;Erkek;10.02.2023;6;360.75;Taksitli;Kredi Kartı;Ev&Yaşam
+1000023;;Gamze Şimşek;Çanakkale;Kadın;25.02.2023;2;140.00;Peşin;Havale-EFT;Anne&Çocuk
+1000024;41;Serkan Kılıç;Kırklareli;Erkek;10.04.2023;5;290.90;Taksitli;Kapıda Ödeme;Market
+1000025;28;Gözde Erdem;Edirne;Kadın;18.03.2023;3;170.25;Peşin;Kredi Kartı;Giyim
+1000026;34;Orhan Doğan;Kocaeli;Erkek;5.12.2022;7;410.50;Taksitli;Havale-EFT;Elektronik
+1000027;47;Yasemin Aksoy;Yalova;Kadın;3.04.2023;1;98.80;Peşin;Kapıda Ödeme;Kozmetik
+1000028;29;Alperen Kaya;Bilecik;Erkek;20.01.2023;4;250.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000029;32;Burcu Yılmaz;Bolu;Kadın;28.02.2023;2;115.00;Peşin;Havale-EFT;Anne&Çocuk
+1000030;45;Fatih Demir;Düzce;Erkek;12.04.2023;6;370.90;Taksitli;Kapıda Ödeme;Market
+1000031;26;Deniz Özdemir;Osmaniye;Kadın;8.03.2023;3;185.50;Peşin;Kredi Kartı;Giyim
+1000032;38;Selim Arslan;Kilis;Erkek;15.11.2022;5;300.25;Taksitli;Havale-EFT;Elektronik
+1000033;42;Merve Çelik;Karabük;Kadın;8.04.2023;1;88.70;Peşin;Kapıda Ödeme;Kozmetik
+1000034;27;Kemal Yıldız;Bartın;Erkek;22.02.2023;4;235.90;Taksitli;Kredi Kartı;Ev&Yaşam
+1000035;31;Ebru Kara;Ardahan;Kadın;28.01.2023;2;125.00;Peşin;Havale-EFT;Anne&Çocuk
+1000036;44;Onur Güneş;Iğdır;Erkek;18.04.2023;6;360.80;Taksitli;Kapıda Ödeme;Market
+1000037;23;Simge Öztürk;Yozgat;Kadın;12.03.2023;3;175.75;Peşin;Kredi Kartı;Giyim
+1000038;33;Hasan Demir;Çankırı;Erkek;18.12.2022;7;430.60;Taksitli;Havale-EFT;Elektronik
+1000039;46;Burcu Kaya;Kırıkkale;Kadın;2.04.2023;1;92.20;Peşin;Kapıda Ödeme;Kozmetik
+1000040;29;Serkan Şahin;Nevşehir;Erkek;22.01.2023;5;255.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000041;37;Gizem Arslan;Aksaray;Kadın;22.03.2023;4;225.80;Peşin;Havale-EFT;Anne&Çocuk
+1000042;41;Oğuz Güneş;Niğde;Erkek;10.04.2023;2;135.20;Taksitli;Kapıda Ödeme;Market
+1000043;28;Pınar Çelik;Kırşehir;Kadın;18.02.2023;3;160.75;Peşin;Kredi Kartı;Giyim
+1000044;35;Umut Öztürk;Sivas;Erkek;8.01.2023;6;390.40;Taksitli;Havale-EFT;Elektronik
+1000045;48;Ceren Yıldız;Tokat;Kadın;14.04.2023;1;100.90;Peşin;Kapıda Ödeme;Kozmetik
+1000046;24;Murat Kara;Amasya;Erkek;28.03.2023;5;285.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000047;30;Ece Aydın;Çorum;Kadın;28.12.2022;2;118.00;Peşin;Havale-EFT;Anne&Çocuk
+1000048;43;Ali Aksoy;Sinop;Erkek;6.04.2023;7;415.70;Taksitli;Kapıda Ödeme;Market
+1000049;27;Buse Koç;Kastamonu;Kadın;18.01.2023;3;195.25;Peşin;Kredi Kartı;Giyim
+1000050;39;Emre Özdemir;Zonguldak;Erkek;20.11.2022;4;205.60;Taksitli;Havale-EFT;Elektronik
+1000051;46;Dilek Kılıç;Bolu;Kadın;3.03.2023;1;93.50;Peşin;Kapıda Ödeme;Kozmetik
+1000052;23;Volkan Arıkan;Düzce;Erkek;12.02.2023;6;355.75;Taksitli;Kredi Kartı;Ev&Yaşam
+1000053;36;Ayça Kurt;Yalova;Kadın;27.02.2023;2;145.00;Peşin;Havale-EFT;Anne&Çocuk
+1000054;40;Cenk Çetin;Bilecik;Erkek;11.04.2023;5;288.90;Taksitli;Kapıda Ödeme;Market
+1000055;28;Seçil Özkan;Bursa;Kadın;19.03.2023;3;172.25;Peşin;Kredi Kartı;Giyim
+1000056;34;Metin Yücel;Balıkesir;Erkek;7.12.2022;7;425.50;Taksitli;Havale-EFT;Elektronik
+1000057;47;Neslihan Aksoy;Çanakkale;Kadın;5.04.2023;1;99.80;Peşin;Kapıda Ödeme;Kozmetik
+1000058;29;Gökhan Karaca;Tekirdağ;Erkek;21.01.2023;4;245.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000059;32;Hande Şimşek;Kırklareli;Kadın;27.02.2023;2;112.00;Peşin;Havale-EFT;Anne&Çocuk
+1000060;45;Erhan Kılıç;Edirne;Erkek;13.04.2023;6;375.90;Taksitli;Kapıda Ödeme;Market
+1000061;26;Tuğba Erdem;Kocaeli;Kadın;9.03.2023;3;188.50;Peşin;Kredi Kartı;Giyim
+1000062;38;Serdar Doğan;Sakarya;Erkek;17.11.2022;5;305.25;Taksitli;Havale-EFT;Elektronik
+1000063;42;Ayşen Aksoy;Manisa;Kadın;9.04.2023;1;89.70;Peşin;Kapıda Ödeme;Kozmetik
+1000064;27;Cem Kaya;Denizli;Erkek;23.02.2023;4;238.90;Taksitli;Kredi Kartı;Ev&Yaşam
+1000065;31;Esra Yılmaz;Aydın;Kadın;29.01.2023;2;128.00;Peşin;Havale-EFT;Anne&Çocuk
+1000066;44;Fatih Demir;İzmir;Erkek;19.04.2023;6;365.80;Taksitli;Kapıda Ödeme;Market
+1000067;23;Gülcan Şahin;Muğla;Kadın;13.03.2023;3;178.75;Peşin;Kredi Kartı;Giyim
+1000068;33;Hakan Arslan;Antalya;Erkek;19.12.2022;7;435.60;Taksitli;Havale-EFT;Elektronik
+1000069;46;İrem Güneş;Burdur;Kadın;3.04.2023;1;94.20;Peşin;Kapıda Ödeme;Kozmetik
+1000070;29;Okan Kara;Isparta;Erkek;23.01.2023;5;265.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000071;37;Jale Çelik;Afyonkarahisar;Kadın;23.03.2023;4;230.80;Peşin;Havale-EFT;Anne&Çocuk
+1000072;41;Kadir Öztürk;Kütahya;Erkek;11.04.2023;2;138.20;Taksitli;Kapıda Ödeme;Market
+1000073;28;Leyla Yıldız;Uşak;Kadın;19.02.2023;3;163.75;Peşin;Kredi Kartı;Giyim
+1000074;35;Mert Demir;Eskişehir;Erkek;9.01.2023;6;395.40;Taksitli;Havale-EFT;Elektronik
+1000075;48;Nalan Kaya;Bilecik;Kadın;15.04.2023;1;101.90;Peşin;Kapıda Ödeme;Kozmetik
+1000076;24;Ozan Şahin;Bolu;Erkek;29.03.2023;5;290.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000077;30;Pelin Arslan;Düzce;Kadın;29.12.2022;2;121.00;Peşin;Havale-EFT;Anne&Çocuk
+1000078;43;Ramazan Güneş;Yalova;Erkek;7.04.2023;7;420.70;Taksitli;Kapıda Ödeme;Market
+1000079;27;Seda Çelik;Bursa;Kadın;19.01.2023;3;198.25;Peşin;Kredi Kartı;Giyim
+1000080;39;Tuncay Öztürk;Balıkesir;Erkek;21.11.2022;4;208.60;Taksitli;Havale-EFT;Elektronik
+1000081;46;Umut Yıldız;Çanakkale;Kadın;4.03.2023;1;95.50;Peşin;Kapıda Ödeme;Kozmetik
+1000082;23;Veli Demir;Tekirdağ;Erkek;13.02.2023;6;358.75;Taksitli;Kredi Kartı;Ev&Yaşam
+1000083;36;Yasemin Kaya;Kırklareli;Kadın;28.02.2023;2;148.00;Peşin;Havale-EFT;Anne&Çocuk
+1000084;40;Zeki Şahin;Edirne;Erkek;12.04.2023;5;292.90;Taksitli;Kapıda Ödeme;Market
+1000085;28;Aylin Arslan;Kocaeli;Kadın;20.03.2023;3;173.25;Peşin;Kredi Kartı;Giyim
+1000086;34;Barış Güneş;Sakarya;Erkek;6.12.2022;7;428.50;Taksitli;Havale-EFT;Elektronik
+1000087;47;Cemile Çelik;Manisa;Kadın;4.04.2023;1;100.80;Peşin;Kapıda Ödeme;Kozmetik
+1000088;29;Deniz Öztürk;Denizli;Erkek;22.01.2023;4;248.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000089;32;Ebru Yıldız;Aydın;Kadın;28.02.2023;2;116.00;Peşin;Havale-EFT;Anne&Çocuk
+1000090;45;Fatih Demir;İzmir;Erkek;14.04.2023;6;378.90;Taksitli;Kapıda Ödeme;Market
+1000091;26;Gizem Kaya;Muğla;Kadın;10.03.2023;3;189.50;Peşin;Kredi Kartı;Giyim
+1000092;38;Hüseyin Şahin;Antalya;Erkek;18.11.2022;5;308.25;Taksitli;Havale-EFT;Elektronik
+1000093;42;İrem Arslan;Burdur;Kadın;10.04.2023;1;90.70;Peşin;Kapıda Ödeme;Kozmetik
+1000094;27;Jale Güneş;Isparta;Erkek;24.02.2023;4;240.90;Taksitli;Kredi Kartı;Ev&Yaşam
+1000095;31;Kadir Çelik;Afyonkarahisar;Kadın;30.01.2023;2;130.00;Peşin;Havale-EFT;Anne&Çocuk
+1000096;44;Leyla Öztürk;Kütahya;Erkek;20.04.2023;6;370.80;Taksitli;Kapıda Ödeme;Market
+1000097;23;Mert Yıldız;Uşak;Kadın;14.03.2023;3;179.75;Peşin;Kredi Kartı;Giyim
+1000098;33;Nalan Demir;Eskişehir;Erkek;20.12.2022;7;438.60;Taksitli;Havale-EFT;Elektronik
+1000099;46;Ozan Kaya;Bilecik;Kadın;4.04.2023;1;95.20;Peşin;Kapıda Ödeme;Kozmetik
+1000100;29;Pelin Şahin;Bolu;Erkek;24.01.2023;5;270.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000101;37;Ramazan Arslan;Düzce;Kadın;24.03.2023;4;232.80;Peşin;Havale-EFT;Anne&Çocuk
+1000102;41;Seda Güneş;Yalova;Erkek;12.04.2023;2;140.20;Taksitli;Kapıda Ödeme;Market
+1000103;28;Tuncay Çelik;Bursa;Kadın;20.02.2023;3;166.75;Peşin;Kredi Kartı;Giyim
+1000104;35;Umut Öztürk;Balıkesir;Erkek;10.01.2023;6;398.40;Taksitli;Havale-EFT;Elektronik
+1000105;48;Veli Yıldız;Çanakkale;Kadın;16.04.2023;1;102.90;Peşin;Kapıda Ödeme;Kozmetik
+1000106;24;Yasemin Demir;Tekirdağ;Erkek;30.03.2023;5;295.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000107;30;Zeki Kaya;Kırklareli;Kadın;30.12.2022;2;122.00;Peşin;Havale-EFT;Anne&Çocuk
+1000108;43;Aylin Şahin;Edirne;Erkek;8.04.2023;7;423.70;Taksitli;Kapıda Ödeme;Market
+1000109;27;Barış Arslan;Kocaeli;Kadın;20.01.2023;3;200.25;Peşin;Kredi Kartı;Giyim
+1000110;39;Cemile Güneş;Sakarya;Erkek;22.11.2022;4;210.60;Taksitli;Havale-EFT;Elektronik
+1000111;46;Deniz Çelik;Manisa;Kadın;5.03.2023;1;96.50;Peşin;Kapıda Ödeme;Kozmetik
+1000112;23;Ebru Öztürk;Denizli;Erkek;14.02.2023;6;361.75;Taksitli;Kredi Kartı;Ev&Yaşam
+1000113;36;Fatih Yıldız;Aydın;Kadın;1.03.2023;2;150.00;Peşin;Havale-EFT;Anne&Çocuk
+1000114;40;Gizem Demir;İzmir;Erkek;13.04.2023;5;296.90;Taksitli;Kapıda Ödeme;Market
+1000115;28;Hüseyin Kaya;Muğla;Kadın;21.03.2023;3;174.25;Peşin;Kredi Kartı;Giyim
+1000116;34;İrem Şahin;Antalya;Erkek;7.12.2022;7;431.50;Taksitli;Havale-EFT;Elektronik
+1000117;47;Jale Arslan;Burdur;Kadın;5.04.2023;1;101.80;Peşin;Kapıda Ödeme;Kozmetik
+1000118;29;Kadir Güneş;Isparta;Erkek;23.01.2023;4;251.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000119;32;Leyla Çelik;Afyonkarahisar;Kadın;2023-02-29;2;117.00;Peşin;Havale-EFT;Anne&Çocuk
+1000120;45;Mert Öztürk;Kütahya;Erkek;15.04.2023;6;381.90;Taksitli;Kapıda Ödeme;Market
+1000121;26;Nalan Yıldız;Uşak;Kadın;11.03.2023;3;190.50;Peşin;Kredi Kartı;Giyim
+1000122;38;Ozan Demir;Eskişehir;Erkek;19.11.2022;5;310.25;Taksitli;Havale-EFT;Elektronik
+1000123;42;Pelin Kaya;Bilecik;Kadın;11.04.2023;1;91.70;Peşin;Kapıda Ödeme;Kozmetik
+1000124;27;Ramazan Şahin;Bolu;Erkek;25.02.2023;4;242.90;Taksitli;Kredi Kartı;Ev&Yaşam
+1000125;31;Seda Arslan;Düzce;Kadın;31.01.2023;2;132.00;Peşin;Havale-EFT;Anne&Çocuk
+1000126;44;Tuncay Güneş;Yalova;Erkek;21.04.2023;6;372.80;Taksitli;Kapıda Ödeme;Market
+1000127;23;Umut Çelik;Bursa;Kadın;15.03.2023;3;180.75;Peşin;Kredi Kartı;Giyim
+1000128;33;Veli Öztürk;Balıkesir;Erkek;21.12.2022;7;440.60;Taksitli;Havale-EFT;Elektronik
+1000129;46;Yasemin Yıldız;Çanakkale;Kadın;5.04.2023;1;97.20;Peşin;Kapıda Ödeme;Kozmetik
+1000130;29;Zeki Demir;Tekirdağ;Erkek;25.01.2023;5;275.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000131;37;Aylin Kaya;Kırklareli;Kadın;25.03.2023;4;234.80;Peşin;Havale-EFT;Anne&Çocuk
+1000132;41;Barış Şahin;Edirne;Erkek;13.04.2023;2;142.20;Taksitli;Kapıda Ödeme;Market
+1000133;28;Cemile Arslan;Kocaeli;Kadın;21.02.2023;3;168.75;Peşin;Kredi Kartı;Giyim
+1000134;35;Deniz Güneş;Sakarya;Erkek;11.01.2023;6;400.40;Taksitli;Havale-EFT;Elektronik
+1000135;48;Ebru Çelik;Manisa;Kadın;17.04.2023;1;103.90;Peşin;Kapıda Ödeme;Kozmetik
+1000136;24;Fatih Öztürk;Denizli;Erkek;31.03.2023;5;298.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000137;30;Gizem Yıldız;Aydın;Kadın;31.12.2022;2;123.00;Peşin;Havale-EFT;Anne&Çocuk
+1000138;43;Hüseyin Demir;İzmir;Erkek;9.04.2023;7;426.70;Taksitli;Kapıda Ödeme;Market
+1000139;27;İrem Kaya;Muğla;Kadın;21.01.2023;3;202.25;Peşin;Kredi Kartı;Giyim
+1000140;39;Jale Şahin;Antalya;Erkek;23.11.2022;4;212.60;Taksitli;Havale-EFT;Elektronik
+1000141;46;Kadir Arslan;Burdur;Kadın;6.03.2023;1;98.50;Peşin;Kapıda Ödeme;Kozmetik
+1000142;23;Leyla Güneş;Isparta;Erkek;15.02.2023;6;363.75;Taksitli;Kredi Kartı;Ev&Yaşam
+1000143;36;Mert Çelik;Afyonkarahisar;Kadın;2.03.2023;2;152.00;Peşin;Havale-EFT;Anne&Çocuk
+1000144;40;Nalan Öztürk;Kütahya;Erkek;14.04.2023;5;299.90;Taksitli;Kapıda Ödeme;Market
+1000145;28;Ozan Yıldız;Uşak;Kadın;22.03.2023;3;175.25;Peşin;Kredi Kartı;Giyim
+1000146;34;Pelin Demir;Eskişehir;Erkek;8.12.2022;7;433.50;Taksitli;Havale-EFT;Elektronik
+1000147;47;Ramazan Kaya;Bilecik;Kadın;6.04.2023;1;102.80;Peşin;Kapıda Ödeme;Kozmetik
+1000148;29;Seda Şahin;Bolu;Erkek;26.01.2023;4;253.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000149;32;Tuncay Arslan;Düzce;Kadın;1.03.2023;2;119.00;Peşin;Havale-EFT;Anne&Çocuk
+1000150;45;Umut Güneş;Yalova;Erkek;16.04.2023;6;383.90;Taksitli;Kapıda Ödeme;Market
+1000151;26;Veli Çelik;Bursa;Kadın;12.03.2023;3;192.50;Peşin;Kredi Kartı;Giyim
+1000152;38;Yasemin Öztürk;Balıkesir;Erkek;20.11.2022;5;312.25;Taksitli;Havale-EFT;Elektronik
+1000153;42;Zeki Yıldız;Çanakkale;Kadın;12.04.2023;1;92.70;Peşin;Kapıda Ödeme;Kozmetik
+1000154;27;Aylin Demir;Tekirdağ;Erkek;26.02.2023;4;244.90;Taksitli;Kredi Kartı;Ev&Yaşam
+1000155;31;Barış Kaya;Kırklareli;Kadın;1.02.2023;2;134.00;Peşin;Havale-EFT;Anne&Çocuk
+1000156;44;Cemile Şahin;Edirne;Erkek;22.04.2023;6;374.80;Taksitli;Kapıda Ödeme;Market
+1000157;23;Deniz Arslan;Kocaeli;Kadın;16.03.2023;3;182.75;Peşin;Kredi Kartı;Giyim
+1000158;33;Ebru Güneş;Sakarya;Erkek;22.12.2022;7;442.60;Taksitli;Havale-EFT;Elektronik
+1000159;46;Fatih Çelik;Manisa;Kadın;6.04.2023;1;98.20;Peşin;Kapıda Ödeme;Kozmetik
+1000160;29;Gizem Öztürk;Denizli;Erkek;26.01.2023;5;277.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000161;37;Hüseyin Yıldız;Aydın;Kadın;26.03.2023;4;236.80;Peşin;Havale-EFT;Anne&Çocuk
+1000162;41;İrem Demir;İzmir;Erkek;14.04.2023;2;144.20;Taksitli;Kapıda Ödeme;Market
+1000163;28;Jale Kaya;Muğla;Kadın;22.02.2023;3;170.75;Peşin;Kredi Kartı;Giyim
+1000164;35;Kadir Şahin;Antalya;Erkek;12.01.2023;6;402.40;Taksitli;Havale-EFT;Elektronik
+1000165;48;Leyla Arslan;Burdur;Kadın;18.04.2023;1;104.90;Peşin;Kapıda Ödeme;Kozmetik
+1000166;24;Mert Güneş;Isparta;Erkek;1.04.2023;5;300.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000167;30;Nalan Çelik;Afyonkarahisar;Kadın;1.03.2023;2;124.00;Peşin;Havale-EFT;Anne&Çocuk
+1000168;43;Ozan Öztürk;Kütahya;Erkek;10.04.2023;7;428.70;Taksitli;Kapıda Ödeme;Market
+1000169;27;Pelin Yıldız;Uşak;Kadın;22.01.2023;3;204.25;Peşin;Kredi Kartı;Giyim
+1000170;39;Ramazan Demir;Eskişehir;Erkek;24.11.2022;4;214.60;Taksitli;Havale-EFT;Elektronik
+1000171;46;Seda Kaya;Bilecik;Kadın;7.03.2023;1;99.50;Peşin;Kapıda Ödeme;Kozmetik
+1000172;23;Tuncay Şahin;Bolu;Erkek;16.02.2023;6;365.75;Taksitli;Kredi Kartı;Ev&Yaşam
+1000173;36;Umut Arslan;Düzce;Kadın;3.03.2023;2;154.00;Peşin;Havale-EFT;Anne&Çocuk
+1000174;40;Veli Güneş;Yalova;Erkek;15.04.2023;5;302.90;Taksitli;Kapıda Ödeme;Market
+1000175;28;Yasemin Çelik;Bursa;Kadın;23.03.2023;3;176.25;Peşin;Kredi Kartı;Giyim
+1000176;34;Zeki Öztürk;Balıkesir;Erkek;9.12.2022;7;435.50;Taksitli;Havale-EFT;Elektronik
+1000177;47;Aylin Yıldız;Çanakkale;Kadın;7.04.2023;1;103.80;Peşin;Kapıda Ödeme;Kozmetik
+1000178;29;Barış Demir;Tekirdağ;Erkek;27.01.2023;4;255.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000179;32;Cemile Kaya;Kırklareli;Kadın;2.03.2023;2;120.00;Peşin;Havale-EFT;Anne&Çocuk
+1000180;45;Deniz Şahin;Edirne;Erkek;17.04.2023;6;385.90;Taksitli;Kapıda Ödeme;Market
+1000181;26;Ebru Arslan;Kocaeli;Kadın;13.03.2023;3;194.50;Peşin;Kredi Kartı;Giyim
+1000182;38;Fatih Güneş;Sakarya;Erkek;21.11.2022;5;314.25;Taksitli;Havale-EFT;Elektronik
+1000183;42;Gizem Çelik;Manisa;Kadın;13.04.2023;1;93.70;Peşin;Kapıda Ödeme;Kozmetik
+1000184;27;Hüseyin Öztürk;Denizli;Erkek;27.02.2023;4;246.90;Taksitli;Kredi Kartı;Ev&Yaşam
+1000185;31;İrem Yıldız;Aydın;Kadın;2.02.2023;2;136.00;Peşin;Havale-EFT;Anne&Çocuk
+1000186;44;Jale Demir;İzmir;Erkek;23.04.2023;6;376.80;Taksitli;Kapıda Ödeme;Market
+1000187;23;Kadir Kaya;Muğla;Kadın;17.03.2023;3;184.75;Peşin;Kredi Kartı;Giyim
+1000188;33;Leyla Şahin;Antalya;Erkek;23.12.2022;7;444.60;Taksitli;Havale-EFT;Elektronik
+1000189;46;Mert Arslan;Burdur;Kadın;7.04.2023;1;99.20;Peşin;Kapıda Ödeme;Kozmetik
+1000190;29;Nalan Güneş;Isparta;Erkek;27.01.2023;5;280.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000191;37;Ozan Çelik;Afyonkarahisar;Kadın;27.03.2023;4;238.80;Peşin;Havale-EFT;Anne&Çocuk
+1000192;41;Pelin Öztürk;Kütahya;Erkek;15.04.2023;2;146.20;Taksitli;Kapıda Ödeme;Market
+1000193;28;Ramazan Yıldız;Uşak;Kadın;23.02.2023;3;172.75;Peşin;Kredi Kartı;Giyim
+1000194;35;Seda Demir;Eskişehir;Erkek;13.01.2023;6;404.40;Taksitli;Havale-EFT;Elektronik
+1000195;48;Tuncay Kaya;Bilecik;Kadın;19.04.2023;1;105.90;Peşin;Kapıda Ödeme;Kozmetik
+1000196;24;Umut Şahin;Bolu;Erkek;2.04.2023;5;305.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000197;30;Veli Arslan;Düzce;Kadın;2.03.2023;2;126.00;Peşin;Havale-EFT;Anne&Çocuk
+1000198;43;Yasemin Güneş;Yalova;Erkek;11.04.2023;7;430.70;Taksitli;Kapıda Ödeme;Market
+1000199;27;Zeki Çelik;Bursa;Kadın;23.01.2023;3;206.25;Peşin;Kredi Kartı;Giyim
+1000200;39;Aylin Öztürk;Balıkesir;Erkek;25.11.2022;4;216.60;Taksitli;Havale-EFT;Elektronik
+1000201;46;Barış Yıldız;Çanakkale;Kadın;8.03.2023;1;100.50;Peşin;Kapıda Ödeme;Kozmetik
+1000202;23;Cemile Demir;Tekirdağ;Erkek;17.02.2023;6;367.75;Taksitli;Kredi Kartı;Ev&Yaşam
+1000203;36;Deniz Kaya;Kırklareli;Kadın;4.03.2023;2;156.00;Peşin;Havale-EFT;Anne&Çocuk
+1000204;40;Ebru Şahin;Edirne;Erkek;16.04.2023;5;308.90;Taksitli;Kapıda Ödeme;Market
+1000205;28;Fatih Arslan;Kocaeli;Kadın;24.03.2023;3;178.25;Peşin;Kredi Kartı;Giyim
+1000206;34;Gizem Güneş;Sakarya;Erkek;10.12.2022;7;437.50;Taksitli;Havale-EFT;Elektronik
+1000207;47;Hüseyin Çelik;Manisa;Kadın;8.04.2023;1;104.80;Peşin;Kapıda Ödeme;Kozmetik
+1000208;29;İrem Öztürk;Denizli;Erkek;28.01.2023;4;257.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000209;32;Jale Yıldız;Aydın;Kadın;3.03.2023;2;122.00;Peşin;Havale-EFT;Anne&Çocuk
+1000210;45;Kadir Demir;İzmir;Erkek;18.04.2023;6;387.90;Taksitli;Kapıda Ödeme;Market
+1000211;26;Leyla Kaya;Muğla;Kadın;14.03.2023;3;196.50;Peşin;Kredi Kartı;Giyim
+1000212;38;Mert Şahin;Antalya;Erkek;22.11.2022;5;316.25;Taksitli;Havale-EFT;Elektronik
+1000213;42;Nalan Arslan;Burdur;Kadın;14.04.2023;1;94.70;Peşin;Kapıda Ödeme;Kozmetik
+1000214;27;Ozan Güneş;Isparta;Erkek;28.02.2023;4;248.90;Taksitli;Kredi Kartı;Ev&Yaşam
+1000215;31;Pelin Çelik;Afyonkarahisar;Kadın;3.02.2023;2;138.00;Peşin;Havale-EFT;Anne&Çocuk
+1000216;44;Ramazan Öztürk;Kütahya;Erkek;24.04.2023;6;378.80;Taksitli;Kapıda Ödeme;Market
+1000217;23;Seda Yıldız;Uşak;Kadın;18.03.2023;3;186.75;Peşin;Kredi Kartı;Giyim
+1000218;33;Tuncay Demir;Eskişehir;Erkek;24.12.2022;7;446.60;Taksitli;Havale-EFT;Elektronik
+1000219;46;Umut Kaya;Bilecik;Kadın;8.04.2023;1;100.20;Peşin;Kapıda Ödeme;Kozmetik
+1000220;29;Veli Şahin;Bolu;Erkek;28.01.2023;5;285.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000221;37;Yasemin Arslan;Düzce;Kadın;28.03.2023;4;240.80;Peşin;Havale-EFT;Anne&Çocuk
+1000222;41;Zeki Güneş;Yalova;Erkek;16.04.2023;2;148.20;Taksitli;Kapıda Ödeme;Market
+1000223;28;Aylin Çelik;Bursa;Kadın;24.02.2023;3;174.75;Peşin;Kredi Kartı;Giyim
+1000224;35;Barış Öztürk;Balıkesir;Erkek;14.01.2023;6;406.40;Taksitli;Havale-EFT;Elektronik
+1000225;48;Cemile Yıldız;Çanakkale;Kadın;20.04.2023;1;106.90;Peşin;Kapıda Ödeme;Kozmetik
+1000226;24;Deniz Demir;Tekirdağ;Erkek;3.04.2023;5;310.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000227;30;Ebru Kaya;Kırklareli;Kadın;3.03.2023;2;128.00;Peşin;Havale-EFT;Anne&Çocuk
+1000228;43;Fatih Şahin;Edirne;Erkek;12.04.2023;7;432.70;Taksitli;Kapıda Ödeme;Market
+1000229;27;Gizem Arslan;Kocaeli;Kadın;24.01.2023;3;208.25;Peşin;Kredi Kartı;Giyim
+1000230;39;Hüseyin Güneş;Sakarya;Erkek;26.11.2022;4;218.60;Taksitli;Havale-EFT;Elektronik
+1000231;46;İrem Çelik;Manisa;Kadın;9.03.2023;1;101.50;Peşin;Kapıda Ödeme;Kozmetik
+1000232;23;Jale Öztürk;Denizli;Erkek;18.02.2023;6;369.75;Taksitli;Kredi Kartı;Ev&Yaşam
+1000233;36;Kadir Yıldız;Aydın;Kadın;5.03.2023;2;158.00;Peşin;Havale-EFT;Anne&Çocuk
+1000234;40;Leyla Demir;İzmir;Erkek;17.04.2023;5;312.90;Taksitli;Kapıda Ödeme;Market
+1000235;28;Mert Kaya;Muğla;Kadın;25.03.2023;3;180.25;Peşin;Kredi Kartı;Giyim
+1000236;34;Nalan Şahin;Antalya;Erkek;11.12.2022;7;439.50;Taksitli;Havale-EFT;Elektronik
+1000237;47;Ozan Arslan;Burdur;Kadın;9.04.2023;1;105.80;Peşin;Kapıda Ödeme;Kozmetik
+1000238;29;Pelin Güneş;Isparta;Erkek;29.01.2023;4;260.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000239;32;Ramazan Çelik;Afyonkarahisar;Kadın;4.03.2023;2;124.00;Peşin;Havale-EFT;Anne&Çocuk
+1000240;45;Seda Öztürk;Kütahya;Erkek;19.04.2023;6;390.90;Taksitli;Kapıda Ödeme;Market
+1000241;26;Tuncay Yıldız;Uşak;Kadın;19.03.2023;3;198.50;Peşin;Kredi Kartı;Giyim
+1000242;38;Umut Demir;Eskişehir;Erkek;27.11.2022;5;318.25;Taksitli;Havale-EFT;Elektronik
+1000243;42;Veli Kaya;Bilecik;Kadın;15.04.2023;1;95.70;Peşin;Kapıda Ödeme;Kozmetik
+1000244;27;Yasemin Şahin;Bolu;Erkek;1.03.2023;4;250.90;Taksitli;Kredi Kartı;Ev&Yaşam
+1000245;31;Zeki Arslan;Düzce;Kadın;5.02.2023;2;140.00;Peşin;Havale-EFT;Anne&Çocuk
+1000246;44;Aylin Güneş;Yalova;Erkek;25.04.2023;6;380.80;Taksitli;Kapıda Ödeme;Market
+1000247;23;Barış Çelik;Bursa;Kadın;19.03.2023;3;188.75;Peşin;Kredi Kartı;Giyim
+1000248;33;Cemile Öztürk;Balıkesir;Erkek;25.12.2022;7;448.60;Taksitli;Havale-EFT;Elektronik
+1000249;46;Deniz Yıldız;Çanakkale;Kadın;9.04.2023;1;101.20;Peşin;Kapıda Ödeme;Kozmetik
+1000250;29;Ebru Demir;Tekirdağ;Erkek;29.01.2023;5;290.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000251;37;Fatih Kaya;Kırklareli;Kadın;29.03.2023;4;242.80;Peşin;Havale-EFT;Anne&Çocuk
+1000252;41;Gizem Şahin;Edirne;Erkek;17.04.2023;2;150.20;Taksitli;Kapıda Ödeme;Market
+1000253;28;Hüseyin Arslan;Kocaeli;Kadın;25.02.2023;3;176.75;Peşin;Kredi Kartı;Giyim
+1000254;35;İrem Güneş;Sakarya;Erkek;15.01.2023;6;408.40;Taksitli;Havale-EFT;Elektronik
+1000255;48;Jale Çelik;Manisa;Kadın;21.04.2023;1;107.90;Peşin;Kapıda Ödeme;Kozmetik
+1000256;24;Kadir Öztürk;Denizli;Erkek;4.04.2023;5;315.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000257;30;Leyla Yıldız;Aydın;Kadın;4.03.2023;2;130.00;Peşin;Havale-EFT;Anne&Çocuk
+1000258;43;Mert Demir;İzmir;Erkek;13.04.2023;7;434.70;Taksitli;Kapıda Ödeme;Market
+1000259;27;Nalan Kaya;Muğla;Kadın;25.01.2023;3;210.25;Peşin;Kredi Kartı;Giyim
+1000260;39;Ozan Şahin;Antalya;Erkek;28.11.2022;4;220.60;Taksitli;Havale-EFT;Elektronik
+1000261;46;Pelin Arslan;Burdur;Kadın;10.03.2023;1;102.50;Peşin;Kapıda Ödeme;Kozmetik
+1000262;23;Ramazan Güneş;Isparta;Erkek;19.02.2023;6;371.75;Taksitli;Kredi Kartı;Ev&Yaşam
+1000263;36;Seda Çelik;Afyonkarahisar;Kadın;6.03.2023;2;160.00;Peşin;Havale-EFT;Anne&Çocuk
+1000264;40;Tuncay Öztürk;Kütahya;Erkek;26.04.2023;5;318.90;Taksitli;Kapıda Ödeme;Market
+1000265;28;Umut Yıldız;Uşak;Kadın;20.03.2023;3;190.75;Peşin;Kredi Kartı;Giyim
+1000266;34;Veli Demir;Eskişehir;Erkek;26.12.2022;7;450.60;Taksitli;Havale-EFT;Elektronik
+1000267;47;Yasemin Kaya;Bilecik;Kadın;10.04.2023;1;106.80;Peşin;Kapıda Ödeme;Kozmetik
+1000268;29;Zeki Şahin;Bolu;Erkek;30.01.2023;4;263.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000269;32;Aylin Arslan;Düzce;Kadın;5.03.2023;2;128.00;Peşin;Havale-EFT;Anne&Çocuk
+1000270;45;Barış Güneş;Yalova;Erkek;20.04.2023;6;393.90;Taksitli;Kapıda Ödeme;Market
+1000271;26;Cemile Çelik;Bursa;Kadın;21.03.2023;3;200.50;Peşin;Kredi Kartı;Giyim
+1000272;38;Deniz Öztürk;Balıkesir;Erkek;29.11.2022;5;320.25;Taksitli;Havale-EFT;Elektronik
+1000273;42;Ebru Yıldız;Çanakkale;Kadın;16.04.2023;1;96.70;Peşin;Kapıda Ödeme;Kozmetik
+1000274;27;Fatih Demir;Tekirdağ;Erkek;2.03.2023;4;252.90;Taksitli;Kredi Kartı;Ev&Yaşam
+1000275;31;Gizem Kaya;Kırklareli;Kadın;6.02.2023;2;142.00;Peşin;Havale-EFT;Anne&Çocuk
+1000276;44;Hüseyin Şahin;Edirne;Erkek;26.04.2023;6;382.80;Taksitli;Kapıda Ödeme;Market
+1000277;23;İrem Arslan;Kocaeli;Kadın;22.03.2023;3;192.75;Peşin;Kredi Kartı;Giyim
+1000278;33;Jale Güneş;Sakarya;Erkek;27.12.2022;7;452.60;Taksitli;Havale-EFT;Elektronik
+1000279;46;Kadir Çelik;Manisa;Kadın;11.04.2023;1;107.20;Peşin;Kapıda Ödeme;Kozmetik
+1000280;29;Leyla Öztürk;Denizli;Erkek;31.01.2023;5;295.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000281;37;Mert Yıldız;Aydın;Kadın;31.03.2023;4;244.80;Peşin;Havale-EFT;Anne&Çocuk
+1000282;41;Nalan Demir;İzmir;Erkek;18.04.2023;2;152.20;Taksitli;Kapıda Ödeme;Market
+1000283;28;Ozan Kaya;Muğla;Kadın;26.02.2023;3;178.75;Peşin;Kredi Kartı;Giyim
+1000284;35;Pelin Şahin;Antalya;Erkek;16.01.2023;6;410.40;Taksitli;Havale-EFT;Elektronik
+1000285;48;Ramazan Arslan;Burdur;Kadın;22.04.2023;1;108.90;Peşin;Kapıda Ödeme;Kozmetik
+1000286;24;Seda Güneş;Isparta;Erkek;5.04.2023;5;320.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000287;30;Tuncay Çelik;Afyonkarahisar;Kadın;5.03.2023;2;132.00;Peşin;Havale-EFT;Anne&Çocuk
+1000288;43;Umut Öztürk;Kütahya;Erkek;14.04.2023;7;436.70;Taksitli;Kapıda Ödeme;Market
+1000289;27;Veli Yıldız;Uşak;Kadın;26.01.2023;3;212.25;Peşin;Kredi Kartı;Giyim
+1000290;39;Yasemin Demir;Eskişehir;Erkek;30.11.2022;4;222.60;Taksitli;Havale-EFT;Elektronik
+1000291;46;Zeki Kaya;Bilecik;Kadın;11.03.2023;1;103.50;Peşin;Kapıda Ödeme;Kozmetik
+1000292;23;Aylin Şahin;Bolu;Erkek;20.02.2023;6;373.75;Taksitli;Kredi Kartı;Ev&Yaşam
+1000293;36;Barış Arslan;Düzce;Kadın;7.03.2023;2;162.00;Peşin;Havale-EFT;Anne&Çocuk
+1000294;40;Cemile Güneş;Yalova;Erkek;27.04.2023;5;322.90;Taksitli;Kapıda Ödeme;Market
+1000295;28;Deniz Çelik;Bursa;Kadın;23.03.2023;3;194.75;Peşin;Kredi Kartı;Giyim
+1000296;34;Ebru Öztürk;Balıkesir;Erkek;28.12.2022;7;454.60;Taksitli;Havale-EFT;Elektronik
+1000297;47;Fatih Yıldız;Çanakkale;Kadın;12.04.2023;1;108.20;Peşin;Kapıda Ödeme;Kozmetik
+1000298;29;Gizem Demir;Tekirdağ;Erkek;1.02.2023;4;265.00;Taksitli;Kredi Kartı;Ev&Yaşam
+1000299;32;Hüseyin Kaya;Kırklareli;Kadın;8.03.2023;2;134.00;Peşin;Havale-EFT;Anne&Çocuk
+1000300;45;İrem Şahin;Edirne;Erkek;22.04.2023;6;395.90;Taksitli;Kapıda Ödeme;Market
